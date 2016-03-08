@@ -14,7 +14,7 @@ describe("things should be added or subtracted from each other", function() {
 		// before(function(done) {
 		// 	var start = 0;
 		// 	after = add(1,2);
-		//  executes before all of the it black have run
+		//  executes before all of the it blocks have run
 		// 	done();
 		// })
 		beforeEach(function(done) {
